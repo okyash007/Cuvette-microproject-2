@@ -34,6 +34,14 @@ body {
   justify-content: space-between;
 }
 
+.tabs a{
+  cursor: pointer;
+}
+
+.tabs a svg{
+  padding: 0 0 5%;
+}
+
 .search-bar {
   width: 18rem;
   padding: 0.7rem 0 0.7rem 0;
